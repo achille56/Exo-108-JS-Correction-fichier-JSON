@@ -1,10 +1,31 @@
 {
-  nom: UpTo,
-  adresse = rue fictive numéro 65 à Fourmies
-  utilisateur = {
-      nom: Doe,
-      prenom = John
+  "nom": "Upto",
+  "adresse": "rue fictive numéro 65 à Fourmies",
+    "utilisateur": {
+    "nom": "Doe",
+    "prenom": "John",
+  "passion": [
+    "danser",
+    "travailler",
+    "sortir en boîte"
+  ]
+  }
+}
+
+
+/*
+{
+  "nom": "UpTo",
+  "adresse" = "rue fictive numéro 65 à Fourmies",
+
+  "utilisateur" = {
+      "nom": "Doe",
+      "prenom" = "John"
   }
 
   passions = [dancer, travailler, sortir en boîte]
 }
+
+// Correction
+*/
+
